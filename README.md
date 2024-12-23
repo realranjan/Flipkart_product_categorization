@@ -38,8 +38,8 @@ In the fast-paced eCommerce industry, accurate product categorization is critica
 
 | Model                | Train Accuracy | Test Accuracy |
 |----------------------|----------------|---------------|
-| Sequential Model     | 99.78%         | 98.19%        |
-| Random Classifier    | 99.52%         | 98.04%        |
+| Sequential Model     | 97.65%         | 98.08%        |
+| Random Classifier    | 99.99%         | 96.04%        |
 
 ### Combined Model Performance
 
