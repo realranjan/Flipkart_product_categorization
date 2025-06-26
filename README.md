@@ -2,6 +2,14 @@
 
 This repository contains the solution to the **Ecommerce Product Categorization** challenge. The project focuses on developing an efficient text classification model to categorize eCommerce products based on their descriptions.
 
+## Resume Highlights (XYZ Storytelling)
+
+- Improved eCommerce product categorization accuracy to 98.44% (F1 Score: 98.43%) by developing and fine-tuning deep learning models (Sequential Model, Random Classifier) on real-world product data.
+- Enhanced class balance and model robustness by implementing stratified sampling and SMOTE oversampling, resulting in high precision and recall across all product categories.
+- Automated text preprocessing pipeline using NLTK, TF-IDF, and Word2Vec, enabling scalable and efficient feature extraction from raw product descriptions.
+- Identified key business insights (e.g., top-selling categories, price correlations) through exploratory data analysis, supporting data-driven decision-making for eCommerce strategy.
+- Reduced search friction and improved customer experience by deploying a high-accuracy categorization model, increasing product discoverability and reducing abandoned sessions.
+
 ## Problem Statement
 
 In the fast-paced eCommerce industry, accurate product categorization is critical for improving customer experience, reducing search friction, and enhancing product discoverability. The challenge lies in handling ambiguities, unconventional naming conventions, and multi-language data. This project addresses these challenges with an innovative and scalable solution.
@@ -62,25 +70,5 @@ In the fast-paced eCommerce industry, accurate product categorization is critica
 The accurate categorization model developed in this project is a crucial tool for improving eCommerce platforms. Future enhancements may include:
 - Exploring advanced deep learning models.
 - Integrating visual features, such as product images, for better accuracy.
-
-## Project Highlights for Resume (XYZ Storytelling)
-
-- **Situation:** Faced with the challenge of accurately categorizing eCommerce products to improve customer experience and product discoverability in a large, imbalanced, and noisy dataset.
-- **Action:**
-  - Engineered robust data preprocessing pipelines using NLTK, TF-IDF, and Word2Vec to convert raw product descriptions into meaningful features.
-  - Addressed class imbalance with stratified sampling and SMOTE, ensuring fair model training.
-  - Developed, trained, and fine-tuned deep learning models (Sequential Model, Random Classifier) and implemented ensemble techniques for optimal performance.
-  - Conducted comprehensive model evaluation and hyperparameter tuning to maximize accuracy and F1-score.
-- **Result:**
-  - Achieved a test accuracy of **98.44%** and a weighted F1-score of **98.43%** with the ensemble model, outperforming baseline classifiers.
-  - Improved product categorization accuracy, directly contributing to enhanced customer experience and increased product discoverability for eCommerce platforms.
-
-### Quantized Resume Points
-
-- Built and deployed a text classification pipeline for eCommerce product categorization, achieving **98%+ accuracy** on real-world data.
-- Engineered advanced NLP preprocessing (NLTK, TF-IDF, Word2Vec) and handled class imbalance with SMOTE and stratified sampling.
-- Designed, trained, and optimized deep learning models, including ensemble approaches, resulting in a **weighted F1-score of 98.43%**.
-- Extracted actionable business insights (e.g., top-selling categories, price correlations) to inform strategic decisions.
-- Demonstrated expertise in data science, machine learning, and deep learning for high-impact, production-ready solutions.
 
 You can now review and save the README file in your repository.
